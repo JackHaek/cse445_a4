@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<Hotels>
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.7">
+		<Name>Blackberry Farm</Name>
+		<Phone>800-557-8864</Phone>
+		<Phone>800-557-8864</Phone>
+		<Address NearestAirport="McGhee Tyson">
+			<Number>1471</Number>
+			<Street>W. Millers Cove Rd.</Street>
+			<City>Walland</City>
+			<State>TN</State>
+			<Zip>37886</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.8">
+		<Name>The Peninsula Chicago</Name>
+		<Phone>312-337-2888</Phone>
+		<Address NearestAirport="O'Hare International">
+			<Number>108</Number>
+			<Street>E Superior St</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60611</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Four Seasons Resort Lanai</Name>
+		<Phone>808-565-2000</Phone>
+		<Address NearestAirport="Lanai">
+			<Number>1</Number>
+			<Street>Manele Bay Rd</Street>
+			<City>Lanai City</City>
+			<State>HI</State>
+			<Zip>96763</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.9">
+		<Name>The Langham, Chicago</Name>
+		<Phone>312-923-9988</Phone>
+		<Phone>855-817-5262</Phone>
+		<Address NearestAirport="O'Hare International">
+			<Number>330</Number>
+			<Street>N Wabash Ave</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60611</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.6">
+		<Name>The Beverly Hills Hotel</Name>
+		<Phone>310-276-2251</Phone>
+		<Address NearestAirport="Los Angeles International">
+			<Number>9641</Number>
+			<Street>Sunset Blvd</Street>
+			<City>Beverly Hills</City>
+			<State>CA</State>
+			<Zip>90210</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The Broadmoor</Name>
+		<Phone>855-634-7711</Phone>
+		<Address NearestAirport="Colorado Springs">
+			<Number>1</Number>
+			<Street>Lake Avenue</Street>
+			<City>Colorado Springs</City>
+			<State>CO</State>
+			<Zip>80906</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.9">
+		<Name>Twin Farms</Name>
+		<Phone>800-894-6327</Phone>
+		<Phone>802-234-9999</Phone>
+		<Address NearestAirport="Lebanon Municipal">
+			<Number>452</Number>
+			<Street>Royalton Turnpike</Street>
+			<City>Barnard</City>
+			<State>VT</State>
+			<Zip>05031</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Post Ranch Inn</Name>
+		<Phone>831-667-2200</Phone>
+		<Address NearestAirport="Monterey Regional">
+			<Number>47900</Number>
+			<Street>Highway 1</Street>
+			<City>Big Sur</City>
+			<State>CA</State>
+			<Zip>93920</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.7">
+		<Name>Hotel Emma</Name>
+		<Phone>210-448-8300</Phone>
+		<Address NearestAirport="San Antonio International">
+			<Number>136</Number>
+			<Street>E Grayson St</Street>
+			<City>San Antonio</City>
+			<State>TX</State>
+			<Zip>78215</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The Inn at Little Washington</Name>
+		<Phone>540-675-3800</Phone>
+		<Address NearestAirport="Dulles International">
+			<Number>309</Number>
+			<Street>Middle St</Street>
+			<City>Washington</City>
+			<State>VA</State>
+			<Zip>22747</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
